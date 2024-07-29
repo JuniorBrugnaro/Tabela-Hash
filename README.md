@@ -1,4 +1,5 @@
-QUESTÃO 2 de 2 – Tabela Hash
+# QUESTÃO 2 de 2 – Tabela Hash
+
 Enunciado: Com o objetivo de criar um sistema novo de emplacamento de veículos, deputados em do Distrito Federal – DF, decidiram que o último número da placa dos veículos, irá representar o estado de registro dele. Para isso, sua equipe de desenvolvedores foi encarregada de desenvolver uma Tabela Hash com endereçamento em cadeia de 10 posições (cada posição do vetor deve ser uma lista encadeada), representando os números de 0 a 9 que irão representar os 26 estados e o Distrito Federal (total 27).
 
 A função hash deve seguir as seguintes regras:
